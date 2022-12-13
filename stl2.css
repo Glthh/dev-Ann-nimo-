@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Aladin&family=Grenze+Gotisch:wght@900&family=Jolly+Lodger&family=New+Rocker&display=swap');
+         
+          .info{
+          margin: 6.0px;
+          color: black;
+          font-family:'New Rocker',cursive;
+          background-color: #00000011;
+          box-shadow: 10px 5px 5px grey;
+          border-radius: 15px;
+          border: 1px solid yellow; 
+          color: #daa600;
+          text-align: center;
+          }
+          body{
+              background: #080c20;
+          }
+          p{
+              color: red;
+              font-family: 'Aladin';
+              font-size:23px;
+          }
+          a{
+            color: red;
+          }
